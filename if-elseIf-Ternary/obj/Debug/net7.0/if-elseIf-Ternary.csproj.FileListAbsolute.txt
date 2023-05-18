@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\CSharp101\if-elseIf-Ternary\bin\Debug\net7.0\if-elseIf-Ternary.exe
+C:\Users\Administrator\Desktop\CSharp101\if-elseIf-Ternary\bin\Debug\net7.0\if-elseIf-Ternary.deps.json
+C:\Users\Administrator\Desktop\CSharp101\if-elseIf-Ternary\bin\Debug\net7.0\if-elseIf-Ternary.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp101\if-elseIf-Ternary\bin\Debug\net7.0\if-elseIf-Ternary.dll
+C:\Users\Administrator\Desktop\CSharp101\if-elseIf-Ternary\bin\Debug\net7.0\if-elseIf-Ternary.pdb
+C:\Users\Administrator\Desktop\CSharp101\if-elseIf-Ternary\obj\Debug\net7.0\if-elseIf-Ternary.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CSharp101\if-elseIf-Ternary\obj\Debug\net7.0\if-elseIf-Ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp101\if-elseIf-Ternary\obj\Debug\net7.0\if-elseIf-Ternary.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp101\if-elseIf-Ternary\obj\Debug\net7.0\if-elseIf-Ternary.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp101\if-elseIf-Ternary\obj\Debug\net7.0\if-elseIf-Ternary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp101\if-elseIf-Ternary\obj\Debug\net7.0\if-elseIf-Ternary.dll
+C:\Users\Administrator\Desktop\CSharp101\if-elseIf-Ternary\obj\Debug\net7.0\refint\if-elseIf-Ternary.dll
+C:\Users\Administrator\Desktop\CSharp101\if-elseIf-Ternary\obj\Debug\net7.0\if-elseIf-Ternary.pdb
+C:\Users\Administrator\Desktop\CSharp101\if-elseIf-Ternary\obj\Debug\net7.0\if-elseIf-Ternary.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp101\if-elseIf-Ternary\obj\Debug\net7.0\ref\if-elseIf-Ternary.dll
