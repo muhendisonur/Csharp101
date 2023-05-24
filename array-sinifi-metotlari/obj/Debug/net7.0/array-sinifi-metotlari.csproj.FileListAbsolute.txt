@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Csharp101\array-sinifi-metotlari\bin\Debug\net7.0\array-sinifi-metotlari.exe
+C:\Users\Administrator\Desktop\Csharp101\array-sinifi-metotlari\bin\Debug\net7.0\array-sinifi-metotlari.deps.json
+C:\Users\Administrator\Desktop\Csharp101\array-sinifi-metotlari\bin\Debug\net7.0\array-sinifi-metotlari.runtimeconfig.json
+C:\Users\Administrator\Desktop\Csharp101\array-sinifi-metotlari\bin\Debug\net7.0\array-sinifi-metotlari.dll
+C:\Users\Administrator\Desktop\Csharp101\array-sinifi-metotlari\bin\Debug\net7.0\array-sinifi-metotlari.pdb
+C:\Users\Administrator\Desktop\Csharp101\array-sinifi-metotlari\obj\Debug\net7.0\array-sinifi-metotlari.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Csharp101\array-sinifi-metotlari\obj\Debug\net7.0\array-sinifi-metotlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Csharp101\array-sinifi-metotlari\obj\Debug\net7.0\array-sinifi-metotlari.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Csharp101\array-sinifi-metotlari\obj\Debug\net7.0\array-sinifi-metotlari.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Csharp101\array-sinifi-metotlari\obj\Debug\net7.0\array-sinifi-metotlari.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Csharp101\array-sinifi-metotlari\obj\Debug\net7.0\array-sinifi-metotlari.dll
+C:\Users\Administrator\Desktop\Csharp101\array-sinifi-metotlari\obj\Debug\net7.0\refint\array-sinifi-metotlari.dll
+C:\Users\Administrator\Desktop\Csharp101\array-sinifi-metotlari\obj\Debug\net7.0\array-sinifi-metotlari.pdb
+C:\Users\Administrator\Desktop\Csharp101\array-sinifi-metotlari\obj\Debug\net7.0\array-sinifi-metotlari.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Csharp101\array-sinifi-metotlari\obj\Debug\net7.0\ref\array-sinifi-metotlari.dll
