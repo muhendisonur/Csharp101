@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Csharp101\extension-metot-ve-recursive\obj\Debug\net7.0\extension-metot-ve-recursive.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Csharp101\extension-metot-ve-recursive\obj\Debug\net7.0\extension-metot-ve-recursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Csharp101\extension-metot-ve-recursive\obj\Debug\net7.0\extension-metot-ve-recursive.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Csharp101\extension-metot-ve-recursive\obj\Debug\net7.0\extension-metot-ve-recursive.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Csharp101\extension-metot-ve-recursive\obj\Debug\net7.0\extension-metot-ve-recursive.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Csharp101\extension-metot-ve-recursive\bin\Debug\net7.0\extension-metot-ve-recursive.exe
+C:\Users\Administrator\Desktop\Csharp101\extension-metot-ve-recursive\bin\Debug\net7.0\extension-metot-ve-recursive.deps.json
+C:\Users\Administrator\Desktop\Csharp101\extension-metot-ve-recursive\bin\Debug\net7.0\extension-metot-ve-recursive.runtimeconfig.json
+C:\Users\Administrator\Desktop\Csharp101\extension-metot-ve-recursive\bin\Debug\net7.0\extension-metot-ve-recursive.dll
+C:\Users\Administrator\Desktop\Csharp101\extension-metot-ve-recursive\bin\Debug\net7.0\extension-metot-ve-recursive.pdb
+C:\Users\Administrator\Desktop\Csharp101\extension-metot-ve-recursive\obj\Debug\net7.0\extension-metot-ve-recursive.dll
+C:\Users\Administrator\Desktop\Csharp101\extension-metot-ve-recursive\obj\Debug\net7.0\refint\extension-metot-ve-recursive.dll
+C:\Users\Administrator\Desktop\Csharp101\extension-metot-ve-recursive\obj\Debug\net7.0\extension-metot-ve-recursive.pdb
+C:\Users\Administrator\Desktop\Csharp101\extension-metot-ve-recursive\obj\Debug\net7.0\extension-metot-ve-recursive.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Csharp101\extension-metot-ve-recursive\obj\Debug\net7.0\ref\extension-metot-ve-recursive.dll
