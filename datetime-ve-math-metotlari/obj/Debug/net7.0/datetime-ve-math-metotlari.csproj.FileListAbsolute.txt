@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Csharp101\datetime-ve-math-metotlari\bin\Debug\net7.0\datetime-ve-math-metotlari.exe
+C:\Users\Administrator\Desktop\Csharp101\datetime-ve-math-metotlari\bin\Debug\net7.0\datetime-ve-math-metotlari.deps.json
+C:\Users\Administrator\Desktop\Csharp101\datetime-ve-math-metotlari\bin\Debug\net7.0\datetime-ve-math-metotlari.runtimeconfig.json
+C:\Users\Administrator\Desktop\Csharp101\datetime-ve-math-metotlari\bin\Debug\net7.0\datetime-ve-math-metotlari.dll
+C:\Users\Administrator\Desktop\Csharp101\datetime-ve-math-metotlari\bin\Debug\net7.0\datetime-ve-math-metotlari.pdb
+C:\Users\Administrator\Desktop\Csharp101\datetime-ve-math-metotlari\obj\Debug\net7.0\datetime-ve-math-metotlari.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Csharp101\datetime-ve-math-metotlari\obj\Debug\net7.0\datetime-ve-math-metotlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Csharp101\datetime-ve-math-metotlari\obj\Debug\net7.0\datetime-ve-math-metotlari.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Csharp101\datetime-ve-math-metotlari\obj\Debug\net7.0\datetime-ve-math-metotlari.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Csharp101\datetime-ve-math-metotlari\obj\Debug\net7.0\datetime-ve-math-metotlari.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Csharp101\datetime-ve-math-metotlari\obj\Debug\net7.0\datetime-ve-math-metotlari.dll
+C:\Users\Administrator\Desktop\Csharp101\datetime-ve-math-metotlari\obj\Debug\net7.0\refint\datetime-ve-math-metotlari.dll
+C:\Users\Administrator\Desktop\Csharp101\datetime-ve-math-metotlari\obj\Debug\net7.0\datetime-ve-math-metotlari.pdb
+C:\Users\Administrator\Desktop\Csharp101\datetime-ve-math-metotlari\obj\Debug\net7.0\datetime-ve-math-metotlari.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Csharp101\datetime-ve-math-metotlari\obj\Debug\net7.0\ref\datetime-ve-math-metotlari.dll
