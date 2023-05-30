@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Csharp101\string-metotlari\bin\Debug\net7.0\string-metotlari.exe
+C:\Users\Administrator\Desktop\Csharp101\string-metotlari\bin\Debug\net7.0\string-metotlari.deps.json
+C:\Users\Administrator\Desktop\Csharp101\string-metotlari\bin\Debug\net7.0\string-metotlari.runtimeconfig.json
+C:\Users\Administrator\Desktop\Csharp101\string-metotlari\bin\Debug\net7.0\string-metotlari.dll
+C:\Users\Administrator\Desktop\Csharp101\string-metotlari\bin\Debug\net7.0\string-metotlari.pdb
+C:\Users\Administrator\Desktop\Csharp101\string-metotlari\obj\Debug\net7.0\string-metotlari.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Csharp101\string-metotlari\obj\Debug\net7.0\string-metotlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Csharp101\string-metotlari\obj\Debug\net7.0\string-metotlari.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Csharp101\string-metotlari\obj\Debug\net7.0\string-metotlari.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Csharp101\string-metotlari\obj\Debug\net7.0\string-metotlari.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Csharp101\string-metotlari\obj\Debug\net7.0\string-metotlari.dll
+C:\Users\Administrator\Desktop\Csharp101\string-metotlari\obj\Debug\net7.0\refint\string-metotlari.dll
+C:\Users\Administrator\Desktop\Csharp101\string-metotlari\obj\Debug\net7.0\string-metotlari.pdb
+C:\Users\Administrator\Desktop\Csharp101\string-metotlari\obj\Debug\net7.0\string-metotlari.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Csharp101\string-metotlari\obj\Debug\net7.0\ref\string-metotlari.dll
