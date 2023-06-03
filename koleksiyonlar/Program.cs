@@ -1,4 +1,31 @@
-﻿//GENERIC LIST
+﻿using System.Collections;
+
+//ARRAYLIST
+ArrayList renkler = new ArrayList();
+string[] koyuRenkler = {"lacivert", "siyah", "mor"};
+
+renkler.AddRange(koyuRenkler);
+
+renkler.Sort();
+
+System.Console.WriteLine(renkler.BinarySearch("siyah"));
+
+renkler.Remove("lacivert");
+foreach(var item in renkler)
+{
+    System.Console.WriteLine(item);
+}
+
+renkler.Clear();
+foreach(var item in renkler)
+{
+    System.Console.WriteLine(item);
+}
+
+
+
+
+//GENERIC LIST
 //int objeleri barındıran generic list oluşturmak
 List<int> sayilar = new List<int>();
 sayilar.Add(35);
