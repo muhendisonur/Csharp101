@@ -1,5 +1,49 @@
 ﻿using System.Collections;
 
+//DICTIONARY
+Dictionary<string, string> meyveler = new Dictionary<string, string>(); //key'i ve value' değerleri string tipinde olan sözlük tanımladık
+
+//eleman ekleme
+meyveler.Add("elma", "kırmızı");
+meyveler.Add("armut", "sarı");
+meyveler.Add("şeftali", "turuncu");
+
+//dizi elemanlarına erişim
+foreach(var item in meyveler)
+{
+    System.Console.WriteLine(item); //key ve valuesi ile birlikte yazdıracak her bir elemanı. Yani her bir eleman aslında kendi içerisinde 2 elemanlı bir dizi.
+}
+
+System.Console.WriteLine(meyveler["elma"]);
+
+//count: eleman sayısını verir
+System.Console.WriteLine(meyveler.Count);
+
+//contains: eleman arama
+System.Console.WriteLine(meyveler.ContainsValue("turuncu"));
+System.Console.WriteLine(meyveler.ContainsKey("nektari"));
+
+//remove: key değeri ile eleman silmek
+meyveler.Remove("elma");
+System.Console.WriteLine(meyveler.ContainsKey("elma"));
+
+//keys: sadece anahtarlar üzerinde işlem yapmak
+foreach(var item in meyveler.Keys)
+{
+    System.Console.WriteLine(item);
+}
+
+//values: sadece değerler üzerinde işlem yapmak
+foreach(var item in meyveler.Values)
+{
+    System.Console.WriteLine(item);
+}
+
+
+
+
+
+
 //ARRAYLIST
 ArrayList renkler = new ArrayList();
 string[] koyuRenkler = {"lacivert", "siyah", "mor"};
@@ -21,6 +65,7 @@ foreach(var item in renkler)
 {
     System.Console.WriteLine(item);
 }
+
 
 
 

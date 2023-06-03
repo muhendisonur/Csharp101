@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muhen\\Desktop\\Csharp101\\koleksiyonlar\\koleksiyonlar.csproj": {}
+    "C:\\Users\\muhen\\desktop\\Csharp101\\koleksiyonlar\\koleksiyonlar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muhen\\Desktop\\Csharp101\\koleksiyonlar\\koleksiyonlar.csproj": {
+    "C:\\Users\\muhen\\desktop\\Csharp101\\koleksiyonlar\\koleksiyonlar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muhen\\Desktop\\Csharp101\\koleksiyonlar\\koleksiyonlar.csproj",
+        "projectUniqueName": "C:\\Users\\muhen\\desktop\\Csharp101\\koleksiyonlar\\koleksiyonlar.csproj",
         "projectName": "koleksiyonlar",
-        "projectPath": "C:\\Users\\muhen\\Desktop\\Csharp101\\koleksiyonlar\\koleksiyonlar.csproj",
+        "projectPath": "C:\\Users\\muhen\\desktop\\Csharp101\\koleksiyonlar\\koleksiyonlar.csproj",
         "packagesPath": "C:\\Users\\muhen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muhen\\Desktop\\Csharp101\\koleksiyonlar\\obj\\",
+        "outputPath": "C:\\Users\\muhen\\desktop\\Csharp101\\koleksiyonlar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muhen\\AppData\\Roaming\\NuGet\\NuGet.Config"
