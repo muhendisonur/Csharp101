@@ -1,0 +1,15 @@
+C:\Users\muhen\Desktop\Csharp101\koleksiyonlar\bin\Debug\net7.0\koleksiyonlar.exe
+C:\Users\muhen\Desktop\Csharp101\koleksiyonlar\bin\Debug\net7.0\koleksiyonlar.deps.json
+C:\Users\muhen\Desktop\Csharp101\koleksiyonlar\bin\Debug\net7.0\koleksiyonlar.runtimeconfig.json
+C:\Users\muhen\Desktop\Csharp101\koleksiyonlar\bin\Debug\net7.0\koleksiyonlar.dll
+C:\Users\muhen\Desktop\Csharp101\koleksiyonlar\bin\Debug\net7.0\koleksiyonlar.pdb
+C:\Users\muhen\Desktop\Csharp101\koleksiyonlar\obj\Debug\net7.0\koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\muhen\Desktop\Csharp101\koleksiyonlar\obj\Debug\net7.0\koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhen\Desktop\Csharp101\koleksiyonlar\obj\Debug\net7.0\koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\muhen\Desktop\Csharp101\koleksiyonlar\obj\Debug\net7.0\koleksiyonlar.AssemblyInfo.cs
+C:\Users\muhen\Desktop\Csharp101\koleksiyonlar\obj\Debug\net7.0\koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\muhen\Desktop\Csharp101\koleksiyonlar\obj\Debug\net7.0\koleksiyonlar.dll
+C:\Users\muhen\Desktop\Csharp101\koleksiyonlar\obj\Debug\net7.0\refint\koleksiyonlar.dll
+C:\Users\muhen\Desktop\Csharp101\koleksiyonlar\obj\Debug\net7.0\koleksiyonlar.pdb
+C:\Users\muhen\Desktop\Csharp101\koleksiyonlar\obj\Debug\net7.0\koleksiyonlar.genruntimeconfig.cache
+C:\Users\muhen\Desktop\Csharp101\koleksiyonlar\obj\Debug\net7.0\ref\koleksiyonlar.dll
