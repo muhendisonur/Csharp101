@@ -10,7 +10,7 @@ sayilar.Add(61);
 sayilar.Remove(100); //removeat ile indeks değerine göre silebiliriz 
 //Not: referans değerleri üzerinden işlem yapıyor yani kalıcı olarak sildi.
 
-//eleman arama
+//eleman aramaa
 System.Console.WriteLine(sayilar.Contains(61));
 
 //eleman ile indeks değerine erişme
