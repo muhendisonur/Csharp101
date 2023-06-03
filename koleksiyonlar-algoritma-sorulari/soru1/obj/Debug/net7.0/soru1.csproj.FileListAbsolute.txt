@@ -1,0 +1,15 @@
+C:\Users\muhen\desktop\Csharp101\koleksiyonlar-algoritma-sorulari\soru1\bin\Debug\net7.0\soru1.exe
+C:\Users\muhen\desktop\Csharp101\koleksiyonlar-algoritma-sorulari\soru1\bin\Debug\net7.0\soru1.deps.json
+C:\Users\muhen\desktop\Csharp101\koleksiyonlar-algoritma-sorulari\soru1\bin\Debug\net7.0\soru1.runtimeconfig.json
+C:\Users\muhen\desktop\Csharp101\koleksiyonlar-algoritma-sorulari\soru1\bin\Debug\net7.0\soru1.dll
+C:\Users\muhen\desktop\Csharp101\koleksiyonlar-algoritma-sorulari\soru1\bin\Debug\net7.0\soru1.pdb
+C:\Users\muhen\desktop\Csharp101\koleksiyonlar-algoritma-sorulari\soru1\obj\Debug\net7.0\soru1.csproj.AssemblyReference.cache
+C:\Users\muhen\desktop\Csharp101\koleksiyonlar-algoritma-sorulari\soru1\obj\Debug\net7.0\soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhen\desktop\Csharp101\koleksiyonlar-algoritma-sorulari\soru1\obj\Debug\net7.0\soru1.AssemblyInfoInputs.cache
+C:\Users\muhen\desktop\Csharp101\koleksiyonlar-algoritma-sorulari\soru1\obj\Debug\net7.0\soru1.AssemblyInfo.cs
+C:\Users\muhen\desktop\Csharp101\koleksiyonlar-algoritma-sorulari\soru1\obj\Debug\net7.0\soru1.csproj.CoreCompileInputs.cache
+C:\Users\muhen\desktop\Csharp101\koleksiyonlar-algoritma-sorulari\soru1\obj\Debug\net7.0\soru1.dll
+C:\Users\muhen\desktop\Csharp101\koleksiyonlar-algoritma-sorulari\soru1\obj\Debug\net7.0\refint\soru1.dll
+C:\Users\muhen\desktop\Csharp101\koleksiyonlar-algoritma-sorulari\soru1\obj\Debug\net7.0\soru1.pdb
+C:\Users\muhen\desktop\Csharp101\koleksiyonlar-algoritma-sorulari\soru1\obj\Debug\net7.0\soru1.genruntimeconfig.cache
+C:\Users\muhen\desktop\Csharp101\koleksiyonlar-algoritma-sorulari\soru1\obj\Debug\net7.0\ref\soru1.dll
