@@ -1,0 +1,15 @@
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\araba-ornegi\bin\Debug\net7.0\araba-ornegi.exe
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\araba-ornegi\bin\Debug\net7.0\araba-ornegi.deps.json
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\araba-ornegi\bin\Debug\net7.0\araba-ornegi.runtimeconfig.json
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\araba-ornegi\bin\Debug\net7.0\araba-ornegi.dll
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\araba-ornegi\bin\Debug\net7.0\araba-ornegi.pdb
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\araba-ornegi\obj\Debug\net7.0\araba-ornegi.csproj.AssemblyReference.cache
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\araba-ornegi\obj\Debug\net7.0\araba-ornegi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\araba-ornegi\obj\Debug\net7.0\araba-ornegi.AssemblyInfoInputs.cache
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\araba-ornegi\obj\Debug\net7.0\araba-ornegi.AssemblyInfo.cs
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\araba-ornegi\obj\Debug\net7.0\araba-ornegi.csproj.CoreCompileInputs.cache
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\araba-ornegi\obj\Debug\net7.0\araba-ornegi.dll
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\araba-ornegi\obj\Debug\net7.0\refint\araba-ornegi.dll
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\araba-ornegi\obj\Debug\net7.0\araba-ornegi.pdb
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\araba-ornegi\obj\Debug\net7.0\araba-ornegi.genruntimeconfig.cache
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\araba-ornegi\obj\Debug\net7.0\ref\araba-ornegi.dll

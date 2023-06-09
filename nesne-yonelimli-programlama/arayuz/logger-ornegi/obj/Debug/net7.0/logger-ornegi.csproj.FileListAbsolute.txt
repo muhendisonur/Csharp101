@@ -1,0 +1,15 @@
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\logger-ornegi\bin\Debug\net7.0\logger-ornegi.exe
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\logger-ornegi\bin\Debug\net7.0\logger-ornegi.deps.json
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\logger-ornegi\bin\Debug\net7.0\logger-ornegi.runtimeconfig.json
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\logger-ornegi\bin\Debug\net7.0\logger-ornegi.dll
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\logger-ornegi\bin\Debug\net7.0\logger-ornegi.pdb
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\logger-ornegi\obj\Debug\net7.0\logger-ornegi.csproj.AssemblyReference.cache
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\logger-ornegi\obj\Debug\net7.0\logger-ornegi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\logger-ornegi\obj\Debug\net7.0\logger-ornegi.AssemblyInfoInputs.cache
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\logger-ornegi\obj\Debug\net7.0\logger-ornegi.AssemblyInfo.cs
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\logger-ornegi\obj\Debug\net7.0\logger-ornegi.csproj.CoreCompileInputs.cache
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\logger-ornegi\obj\Debug\net7.0\logger-ornegi.dll
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\logger-ornegi\obj\Debug\net7.0\refint\logger-ornegi.dll
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\logger-ornegi\obj\Debug\net7.0\logger-ornegi.pdb
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\logger-ornegi\obj\Debug\net7.0\logger-ornegi.genruntimeconfig.cache
+C:\Users\muhen\Desktop\Csharp101\nesne-yonelimli-programlama\arayuz\logger-ornegi\obj\Debug\net7.0\ref\logger-ornegi.dll

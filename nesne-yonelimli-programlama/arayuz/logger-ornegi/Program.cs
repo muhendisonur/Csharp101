@@ -1,0 +1,1 @@
+﻿LoggerManager logcu = new LoggerManager(new SmsLogger());
